@@ -106,7 +106,7 @@ sample['label'] = prediction
 sample.to_csv('sample_cnn.csv', header=True, index=False)
 
 #IWroteTheCodeButCouldntCompleteItFully.Itis95%CompletedJustImportingAndDownloadingFilesIsLeftOver.
- 
+ # learnign ML was difficult in 3 days with having multiple quizzess on 22nd. (An ES and GC quiz). Yet I google all te stuff and wrote it. Hope you feel the syntax is correct.
 
 
 
